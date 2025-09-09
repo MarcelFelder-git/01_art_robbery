@@ -17,7 +17,7 @@ Art Robbery is an interactive web application where users can explore famous art
 <img src="art_robbery_gif_final.gif" alt="Art Robbery Demo GIF" width="100%"/>
 
 ### YouTube Video
-[Watch the Demo on YouTube](https://www.youtube.com/watch?v=DEMO_LINK)  
+[Watch the Demo on YouTube](https://youtu.be/Qeo3M6nn7ec)  
 
 ---
 
