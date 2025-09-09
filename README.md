@@ -21,7 +21,7 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ---
 
-## 🖼️ Showcase
+## Showcase 🖼️ 
 
 ### <u>Screenshots</u>
 <img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="100%"/>
@@ -37,7 +37,7 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ---
 
-## ✨ Key Features
+## Key Features ✨ 
 
 - **Museum Heist Gameplay:** Explore museums filled with world-famous paintings and uncover which artwork is real.
 - **Real Art Integration:** Paintings are fetched live from a public art API, showcasing masterpieces from renowned museums around the world.
@@ -49,14 +49,14 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used 🛠️ 
 - **Frontend:** React, JavaScript, HTML, CSS  
 - **State Management:** React useState & useContext
 - **Styling:** Modular CSS
 
 ---
 
-## 💡 Challenges & Lessons Learned
+## Challenges & Lessons Learned 💡 
 - **API Handling:** Learned how to fetch artwork data from an API and dynamically display it in the interface.  
 - **Interactive UI:** Implemented a "flashlight" effect that acts as a mask, allowing users to inspect paintings in detail.  
 - **Dynamic Difficulty & Rewards:** Created filters that adjust the intensity of the images based on difficulty, and a reward system where users earn in-game money by identifying the correct artwork quickly.  
@@ -66,7 +66,7 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ---
 
-## 🚀 How to Get Started (Local Setup)
+## How to Get Started (Local Setup) 🚀 
 To run this project locally, follow these steps:
 
 1. Clone the repository:  
@@ -89,6 +89,6 @@ To run this project locally, follow these steps:
       npm run dev
    ````
 
-## 🌍 Live Demo
+## Live Demo 🌍 
 You can try out the live version of Art Robbery here:  
 [Art Robbery on Vercel](https://01-art-robbery.vercel.app/)
