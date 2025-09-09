@@ -7,16 +7,16 @@ Art Robbery is an interactive web application where users can explore famous art
 
 ## 🖼️ Showcase
 
-### Screenshot
+### <u>Screenshots</u>
 <img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="100%"/>
 <img src="art_robbery_screenshot_3.jpg" alt="Art Robbery Screenshot 2" width="100%"/>
 <img src="art_robbery_screenshot_2.jpg" alt="Art Robbery Screenshot 3" width="100%"/>
 <img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="100%"/>
 
-### GIF
+### <u>GIF Demo</u>
 <img src="art_robbery_gif_final.gif" alt="Art Robbery Demo GIF" width="100%"/>
 
-### YouTube Video
+### <u>YouTube Demo Video</u>
 [Watch the Demo on YouTube](https://youtu.be/Qeo3M6nn7ec)  
 
 ---
