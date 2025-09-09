@@ -1,7 +1,14 @@
 ![Art Robbery: The Heist](art_robbery_title.png)
 
 **Short Description:**  
-Art Robbery is an interactive web application where users can explore famous art pieces, “steal” their favorites into a personal gallery, and learn interesting facts about them. Built with React, the app connects to an external art API to fetch real-time artwork data.  
+**Welcome to Art Robbery: The Heist!**  
+You are a **master thief**, targeting the world’s **most famous paintings**.  
+Your mission: sneak into museums, steal **priceless art**, and escape without getting caught.  
+
+But beware: each museum hides a **fake version** of the paintings alongside the real one.  
+Choose wisely, avoid the traps, and **outsmart the security**.  
+
+Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ---
 
