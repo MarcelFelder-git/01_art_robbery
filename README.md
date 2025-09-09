@@ -23,16 +23,16 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ## Showcase
 
-### <u>Screenshots</u>
+### Screenshots
 <img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="100%"/>
 <img src="art_robbery_screenshot_3.jpg" alt="Art Robbery Screenshot 2" width="100%"/>
 <img src="art_robbery_screenshot_2.jpg" alt="Art Robbery Screenshot 3" width="100%"/>
 <img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="100%"/>
 
-### <u>GIF Demo</u>
+### GIF Demo
 <img src="art_robbery_gif_final.gif" alt="Art Robbery Demo GIF" width="100%"/>
 
-### <u>YouTube Demo Video</u>
+### YouTube Demo Video
 [Watch the Demo on YouTube](https://youtu.be/Qeo3M6nn7ec)  
 
 ---
