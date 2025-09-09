@@ -6,13 +6,12 @@ Art Robbery is an interactive web application where users can explore famous art
 ---
 
 ## 🖼️ Showcase
-Hier kannst du deine Screenshots, GIFs oder YouTube-Demo einfügen:  
 
 ### Screenshot
-<img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="50%"/>
-<img src="art_robbery_screenshot_3.jpg" alt="Art Robbery Screenshot 2" width="50%"/>
-<img src="art_robbery_screenshot_2.jpg" alt="Art Robbery Screenshot 3" width="50%"/>
-<img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="50%"/>
+<img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="100%"/>
+<img src="art_robbery_screenshot_3.jpg" alt="Art Robbery Screenshot 2" width="100%"/>
+<img src="art_robbery_screenshot_2.jpg" alt="Art Robbery Screenshot 3" width="100%"/>
+<img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="100%"/>
 
 ### GIF
 <img src="art_robbery_gif_final.gif" alt="Art Robbery Demo GIF" width="100%"/>
@@ -49,16 +48,20 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone [Dein Repository-Link]
-
+      git clone [Dein Repository-Link]
+   ````
+   
 2. Navigate to the project directory:
   ```bash
-  cd art-robbery
+     cd art-robbery
+   ````
 
 3. Install dependencies:
-
-  npm i
-
+   ```bash
+     npm i
+   ````
+   
 4. Start the application:
-
-   npm run dev
+   ```bash
+      npm run dev
+   ````
