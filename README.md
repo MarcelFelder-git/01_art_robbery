@@ -29,24 +29,31 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 ---
 
 ## ✨ Key Features
-- **API Integration:** Fetches real-time artwork data from an external art API.  
-- **Dynamic Search & Filter:** Search for artworks by title, artist, or period, and filter by style or gallery.  
-- **Personal Gallery:** “Steal” artworks into a personal gallery for later viewing.  
-- **Interactive UI:** Clean, engaging interface for browsing and managing art collections.  
+
+- **Museum Heist Gameplay:** Explore museums filled with world-famous paintings and uncover which artwork is real.
+- **Real Art Integration:** Paintings are fetched live from a public art API, showcasing masterpieces from renowned museums around the world.
+- **Deception Mechanic:** Each painting has multiple versions. Only one is authentic, while others are fakes with subtle differences.
+- **Flashlight Inspection:** Use a flashlight mechanic (mask effect) to reveal painting details hidden in the dark.
+- **Difficulty Scaling:** Fake versions are altered with filters of varying intensity depending on the chosen difficulty.
+- **Upgrade System:** Earn money for quick and successful heists to upgrade your flashlight and improve your chances.
+- **High-Stakes Challenge:** Outsmart security, choose wisely, and steal the real painting before time runs out.
 
 ---
 
 ## 🛠️ Technologies Used
 - **Frontend:** React, JavaScript, HTML, CSS  
-- **State Management:** React useState & useContext (oder Redux, falls verwendet)  
-- **Styling:** CSS Modules / Styled Components / Tailwind (je nach dem, was du genutzt hast)  
+- **State Management:** React useState & useContext
+- **Styling:** Modular CSS
 
 ---
 
 ## 💡 Challenges & Lessons Learned
-- **API Handling:** Learned how to fetch and display asynchronous data while managing loading and error states.  
-- **Complex State Management:** Managing artwork selections, search filters, and personal galleries taught me efficient state handling in React.  
-- **UI/UX Design:** Learned to design an interface that is both functional and visually appealing.  
+- **API Handling:** Learned how to fetch artwork data from an API and dynamically display it in the interface.  
+- **Interactive UI:** Implemented a "flashlight" effect that acts as a mask, allowing users to inspect paintings in detail.  
+- **Dynamic Difficulty & Rewards:** Created filters that adjust the intensity of the images based on difficulty, and a reward system where users earn in-game money by identifying the correct artwork quickly.  
+- **State Management:** Managing the flashlight position, filters, and user rewards taught me efficient state handling in React.  
+- **UI/UX Design:** Learned to design a visually engaging and interactive experience that encourages exploration and strategy.
+
 
 ---
 
