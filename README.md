@@ -24,7 +24,9 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 ## Showcase
 
 ### Screenshots
-<img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="100%"/>
+<p align="center">
+  <img src="art_robbery_screenshot_1.jpg" width="80%"/>
+</p>
 <img src="art_robbery_screenshot_3.jpg" alt="Art Robbery Screenshot 2" width="100%"/>
 <img src="art_robbery_screenshot_2.jpg" alt="Art Robbery Screenshot 3" width="100%"/>
 <img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="100%"/>
