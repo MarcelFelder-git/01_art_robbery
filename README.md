@@ -6,10 +6,10 @@
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Challenges & Lessons Learned](#challenges--lessons-learned)
-- [How to Get Started](#how-to-get-started)
+- [How to Get Started (Local Setup)](#how-to-get-started-local-setup)
 - [Live Demo](#live-demo)
 
-## Short Description:
+## Short Description
 **Welcome to Art Robbery: The Heist!**  
 You are a **master thief**, targeting the world’s **most famous paintings**.  
 Your mission: sneak into museums, steal **priceless art**, and escape without getting caught.  
