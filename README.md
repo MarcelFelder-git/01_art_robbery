@@ -9,11 +9,13 @@ Art Robbery is an interactive web application where users can explore famous art
 Hier kannst du deine Screenshots, GIFs oder YouTube-Demo einfügen:  
 
 ### Screenshot
-![Screenshot 1](./screenshots/screenshot1.png)  
-![Screenshot 2](./screenshots/screenshot2.png)  
+<img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="300"/>
+<img src="art_robbery_screenshot_2.jpg" alt="Art Robbery Screenshot 2" width="300"/>
+<img src="art_robbery_screenshot_3.jpg" alt="Art Robbery Screenshot 3" width="300"/>
+<img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="300"/>
 
 ### GIF
-![Demo GIF](./screenshots/demo.gif)  
+<img src="art_robbery_gif_final" alt="Art Robbery Demo GIF" width="500"/>
 
 ### YouTube Video
 [Watch the Demo on YouTube](https://www.youtube.com/watch?v=DEMO_LINK)  
