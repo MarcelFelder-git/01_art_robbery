@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:  
    ```bash
-      git clone [Dein Repository-Link]
+      git clone https://github.com/MarcelFelder-git/01_art_robbery
    ````
    
 2. Navigate to the project directory:
