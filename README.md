@@ -15,7 +15,7 @@ Hier kannst du deine Screenshots, GIFs oder YouTube-Demo einfügen:
 <img src="art_robbery_screenshot_4.jpg" alt="Art Robbery Screenshot 4" width="50%"/>
 
 ### GIF
-<img src="art_robbery_gif_final" alt="Art Robbery Demo GIF" width="500"/>
+<img src="art_robbery_gif_final.gif" alt="Art Robbery Demo GIF" width="100%"/>
 
 ### YouTube Video
 [Watch the Demo on YouTube](https://www.youtube.com/watch?v=DEMO_LINK)  
