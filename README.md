@@ -3,6 +3,7 @@
 ## 📑 Table of Contents
 - [Short Description](#short-description)
 - [Showcase](#showcase)
+- - [Screenshots](##screenshots)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Challenges & Lessons Learned](#challenges--lessons-learned)
