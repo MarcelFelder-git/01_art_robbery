@@ -22,7 +22,7 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 
 ---
 
-## Showcase 🖼️ 
+## Showcase
 
 ### <u>Screenshots</u>
 <img src="art_robbery_screenshot_1.jpg" alt="Art Robbery Screenshot 1" width="100%"/>
