@@ -1,5 +1,14 @@
 ![Art Robbery: The Heist](art_robbery_title.png)
 
+## 📑 Table of Contents
+- [Short Description](#short-description)
+- [Showcase](#showcase)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [Challenges & Lessons Learned](#challenges--lessons-learned)
+- [How to Get Started](#how-to-get-started)
+- [Live Demo](#live-demo)
+
 **Short Description:**  
 **Welcome to Art Robbery: The Heist!**  
 You are a **master thief**, targeting the world’s **most famous paintings**.  
