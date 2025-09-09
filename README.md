@@ -9,7 +9,7 @@
 - [How to Get Started](#how-to-get-started)
 - [Live Demo](#live-demo)
 
-**Short Description:**  
+## Short Description:
 **Welcome to Art Robbery: The Heist!**  
 You are a **master thief**, targeting the world’s **most famous paintings**.  
 Your mission: sneak into museums, steal **priceless art**, and escape without getting caught.  
