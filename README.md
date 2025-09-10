@@ -8,6 +8,7 @@
 - [Challenges & Lessons Learned](#challenges--lessons-learned)
 - [How to Get Started (Local Setup)](#how-to-get-started-local-setup)
 - [Live Demo](#live-demo)
+- [Data Source](#data-source)
 
 ## Short Description
 **Welcome to Art Robbery: The Heist!**  
