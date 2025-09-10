@@ -98,6 +98,15 @@ To run this project locally, follow these steps:
       npm run dev
    ````
 
+---
+
 ## Live Demo 
 You can try out the live version of Art Robbery here:  
 [Art Robbery on Vercel](https://01-art-robbery.vercel.app/)
+
+---
+
+## Data Source
+Artworks are fetched from the [Art Institute of Chicago API](https://api.artic.edu/docs/),  
+which provides open access to thousands of artworks from the museum’s collection.  
+Special thanks to the Art Institute of Chicago for making this data publicly available.  
