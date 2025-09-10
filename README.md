@@ -9,6 +9,7 @@
 - [How to Get Started (Local Setup)](#how-to-get-started-local-setup)
 - [Live Demo](#live-demo)
 - [Data Source](#data-source)
+- [Notes](#notes)
 
 ## Short Description
 **Welcome to Art Robbery: The Heist!**  
@@ -71,7 +72,8 @@ Are you ready to become the **ultimate art thief** and claim your fortune?
 - **Interactive UI:** Implemented a "flashlight" effect that acts as a mask, allowing users to inspect paintings in detail.  
 - **Dynamic Difficulty & Rewards:** Created filters that adjust the intensity of the images based on difficulty, and a reward system where users earn in-game money by identifying the correct artwork quickly.  
 - **State Management:** Managing the flashlight position, filters, and user rewards taught me efficient state handling in React.  
-- **UI/UX Design:** Learned to design a visually engaging and interactive experience that encourages exploration and strategy.
+- **Responsiveness:** The app is not yet fully responsive, as the main focus during development was on functionality rather than layout and design.
+
 
 
 ---
@@ -111,3 +113,11 @@ You can try out the live version of Art Robbery here:
 Artworks are fetched from the [Art Institute of Chicago API](https://api.artic.edu/docs/),  
 which provides open access to thousands of artworks from the museum’s collection.  
 Special thanks to the Art Institute of Chicago for making this data publicly available.  
+
+---
+
+## Notes
+This project was created as part of my **Frontend Developer training at Cimdata**.  
+The main focus was on functionality and learning how to integrate APIs and interactive mechanics.  
+Responsiveness and advanced UI/UX design will be improved in future iterations.
+
