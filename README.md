@@ -1,6 +1,6 @@
 ![Art Robbery: The Heist](art_robbery_title.png)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Short Description](#short-description)
 - [Showcase](#showcase)
 - [Key Features](#key-features)
