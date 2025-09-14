@@ -29,7 +29,7 @@ const Game = ({ difficulty, setScreen }) => {
 
 	useEffect(() => {
 		const loadPaintings = async () => {
-			const data = await fetchHighlightPaintings(1000); // z.B. 50 Gemälde
+			const data = await fetchHighlightPaintings(1000);
 			setPaintings(data);
 		};
 		loadPaintings();

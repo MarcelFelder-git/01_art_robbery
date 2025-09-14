@@ -1,5 +1,5 @@
 export const fetchHighlightPaintings = async (total = 1000) => {
-	const limitPerRequest = 100; // AIC API max pro Request
+	const limitPerRequest = 100;
 	let artworks = [];
 	let page = 1;
 
@@ -10,7 +10,7 @@ export const fetchHighlightPaintings = async (total = 1000) => {
 			);
 			const data = await response.json();
 
-			if (!data.data || data.data.length === 0) break; // keine weiteren Werke
+			if (!data.data || data.data.length === 0) break;
 
 			const paintings = data.data
 				.filter((item) => item.image_id)
@@ -31,7 +31,6 @@ export const fetchHighlightPaintings = async (total = 1000) => {
 			page++;
 		}
 
-		// nur die gewünschte Gesamtanzahl zurückgeben
 		return artworks.slice(0, total);
 	} catch (error) {
 		console.error('Fehler beim Abrufen der Kunstwerke:', error);
